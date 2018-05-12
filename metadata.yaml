@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '8475'
     url: http://www.gutenberg.org/2009/agents/8475
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19603#The-ArenaVolume-4-No.-20-July-1891
 gutenberg_bookshelf: The Arena
 gutenberg_issued: '2006-10-22'
 gutenberg_type: Text
